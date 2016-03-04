@@ -20,3 +20,4 @@ Inspired by [LFeh - Daily Log](https://github.com/LFeh/dailylog)
 
 - [Day 01](https://github.com/AgtLucas/dailylog/blob/master/logs/mar/2016-03-01.md)
 - [Day 02](https://github.com/AgtLucas/dailylog/blob/master/logs/mar/2016-03-02.md)
+- [Day 03](https://github.com/AgtLucas/dailylog/blob/master/logs/mar/2016-03-03.md)
